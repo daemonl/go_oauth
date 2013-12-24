@@ -1,4 +1,4 @@
-package xero
+package oauth
 
 import (
 	"crypto/rsa"

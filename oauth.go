@@ -1,4 +1,4 @@
-// Xero interface for GO
+// OAuth 1.0 Implementation
 
 // Copyright (C) 2013 Damien Whitten
 //
@@ -19,7 +19,7 @@
 // OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
 // DEALINGS IN THE SOFTWARE.
 
-package xero
+package oauth
 
 import (
 	"crypto"
